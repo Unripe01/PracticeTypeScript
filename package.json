@@ -4,7 +4,7 @@
   "description": "description",
   "main": "index.js",
   "scripts": {
-    "tnd": "ts-node-dev --respawn src/test.ts"
+    "tsd": "ts-node-dev --respawn "
   },
   "repository": {
     "type": "git",
