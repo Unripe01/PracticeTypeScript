@@ -1,0 +1,25 @@
+{
+  "name": "type-test",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "tnd": "ts-node-dev --respawn src/test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unripe01/PracticeTypeScript.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "takemura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unripe01/PracticeTypeScript/issues"
+  },
+  "homepage": "https://github.com/Unripe01/PracticeTypeScript#readme",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8"
+  }
+}
