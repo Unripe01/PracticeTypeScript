@@ -1,0 +1,1 @@
+type k = keyof 0
